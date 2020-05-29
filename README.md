@@ -1,2 +1,2 @@
 # test-initialise
-# Service Thala**..!** say to you thank you
+# Service Thala..! say to you thank you
